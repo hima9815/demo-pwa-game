@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+ <title>Home Page</title>
+</head>
+<h1>Welcome to the Game</h1>
+</body>
+</html>
